@@ -2,7 +2,7 @@
 
 ### Software Engineering Student | Full-Stack Developer | AI & Cloud Enthusiast
 
-[LinkedIn](www.linkedin.com/in/p-s-prashanth-2988a7387) • [GitHub](https://github.com/psprashanth25)
+[LinkedIn](https://www.linkedin.com/in/p-s-prashanth-2988a7387/) • [GitHub](https://github.com/psprashanth25)
 
 ---
 
