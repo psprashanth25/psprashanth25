@@ -2,7 +2,7 @@
 
 ### Software Engineering Student | Full-Stack Developer | AI & Cloud Enthusiast
 
-[LinkedIn](https://www.linkedin.com/in/prashanth-p-s-2988a7387/) • [GitHub](https://github.com/psprashanth25)
+[LinkedIn](linkedin.com/in/prashanth-p-s-2988a7387) • [GitHub](github.com/psprashanth25)
 
 ---
 
@@ -23,7 +23,7 @@ I am an Integrated M.Tech Software Engineering student at **VIT-AP University**,
 | Qualification | Stream / Program | Institution | Board / University | Year | Marks / CGPA |
 |---|---|---|---|---|---|
 | **Integrated M.Tech** | Software Engineering | VIT-AP University | VIT-AP University | 2027 (Expected) | **8.61 / 10 CGPA** |
-| **Intermediate (Class XII)** | MPC (Mathematics, Physics, Chemistry) | Board of Intermediate Education, Andhra Pradesh | BIEAP | 2022 | **861 / 1000 — A Grade** |
+| **Intermediate (Class XII)** | MPC (Mathematics, Physics, Chemistry) | Sai Sri Chaitanya Junior College,Palamaner | BIEAP | 2022 | **861 / 1000 — A Grade** |
 | **SSC (Class X)** | General | Sri Sarada E.M. High School, Palamaner | BSEAP | 2020 | **577 / 600 — First Division** |
 
 ---
@@ -161,5 +161,5 @@ Official certificate documents are stored directly in the repository's `certific
 
 ## Connect With Me
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/prashanth-p-s-2988a7387/)
-- **GitHub:** [GitHub](https://github.com/psprashanth25)
+- **LinkedIn:** [LinkedIn](linkedin.com/in/prashanth-p-s-2988a738)
+- **GitHub:** [GitHub](github.com/psprashanth25)
