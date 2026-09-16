@@ -2,7 +2,7 @@
 
 ### Software Engineering Student | Full-Stack Developer | AI & Cloud Enthusiast
 
-[LinkedIn](linkedin.com/in/prashanth-p-s-2988a7387) • [GitHub](github.com/psprashanth25)
+[LinkedIn](https://www.linkedin.com/in/prashanth-p-s-2988a7387/) • [GitHub](https://github.com/psprashanth25)
 
 ---
 
@@ -161,5 +161,5 @@ Official certificate documents are stored directly in the repository's `certific
 
 ## Connect With Me
 
-- **LinkedIn:** [LinkedIn](linkedin.com/in/prashanth-p-s-2988a738)
-- **GitHub:** [GitHub](github.com/psprashanth25)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/prashanth-p-s-2988a7387/)
+- **GitHub:** [GitHub](https://github.com/psprashanth25)
